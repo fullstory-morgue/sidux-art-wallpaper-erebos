@@ -1,0 +1,9 @@
+sidux-art-wallpaper-erebos (0.1) unstable; urgency=low
+
+  [ Bernard Gray ]
+  * Initial Release.
+
+  [ Stefan Lippers-Hollmann ]
+  * fix package name and contrel stanza.
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Wed, 21 May 2008 15:49:00 +0200
