@@ -11,7 +11,7 @@ sidux-art-wallpaper-erebos (0.1) unstable; urgency=low
   * Initial Release.
 
   [ Stefan Lippers-Hollmann ]
-  * fix package name and contrel stanza.
+  * fix package name and control stanza.
   * switch to the new dh implementation of debhelper 7.
   * substitute missing sidux-erebos.svg by sidux-erebos-wide.svg for packaging
     tests, needs to be fixed properly!
