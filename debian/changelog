@@ -3,6 +3,7 @@ sidux-art-wallpaper-erebos (0.2) ORPHANED; urgency=low
   * NOT RELEASED YET
   * ORPHAN PACKAGE
   * FIXME: sidux-erebos.svg.
+  * refresh SVG graphics, shut up inkscape's migration from old versions.
 
  -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Fri, 23 May 2008 23:15:19 +0200
 
